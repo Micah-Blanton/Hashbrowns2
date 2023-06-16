@@ -12,7 +12,7 @@ Hashbrowns supports the following hash algorithms:
 
 - SHA-1
 - SHA-2 (256-bit)
-- SHA-2 (512-bit) (Coming Soon!)
+- SHA-2 (512-bit)
 - SHA-3 (256-bit) (Coming Soon!)
 - MD4
 - MD5
